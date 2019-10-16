@@ -15,7 +15,7 @@ file_type = FILE_TYPE_PKL
 
 # COMARISON_CRITERIA
 cnts_center_displacement = 0.3
-cnts_area_difference_factor = 0.6
+cnts_area_difference_factor = 0.3
 
 if image_number == 1:
     FILE_NAME_IMAGE_INITIAL = 'img1.jpg'

@@ -16,7 +16,7 @@ CRITERIA_TYPE_AREA = 'area'
 ITERATIONS_NUMBER = 500
 MAX_CENTER_DISPLACEMENT = 0.5
 MIN_CENTER_DISPLACEMENT = 0.0
-MAX_AREA_DIFFERENCE = 1.0
+MAX_AREA_DIFFERENCE = 0.5
 MIN_AREA_DIFFERENCE = 0.0
 
 # --------------------------------------------INPUT--------------------------------------------
